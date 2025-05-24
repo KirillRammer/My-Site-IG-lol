@@ -1,0 +1,23 @@
+<html>
+    <head>
+    <title>RPFR</title>
+    </head>
+    <body>
+        <header>
+         <h1>Hello, my name is Rammer.png/Kirill_Rammer</h1>
+          <p>So, thats my website with all my art works and other things</p>
+          <p>Site will update over and over again</p>
+          <p>Thats all what YOU need to know </p>
+          <a href="https://learn.logikaschool.com/lesson?lesson=31781&level=3&module=7&task=74560">
+          <img src="https://learn.logikaschool.com/uploads/student/4833462/6827ab3128e8b.PNG" height="200px" width="200px" alt="Button Image">
+          </a>
+          <a href="https://learn.logikaschool.com/lesson?lesson=31781&level=4&module=7&task=74560">
+          <img src="https://learn.logikaschool.com/uploads/student/4833462/6827ab12eb396.PNG" height="200px" width="200px" alt="Button Image">>
+          </a>
+        </header>
+         <main>
+        </main>
+        <footer>
+        </footer>
+    </body>
+</html>
